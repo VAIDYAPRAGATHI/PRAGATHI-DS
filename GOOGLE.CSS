@@ -1,0 +1,114 @@
+/* #dots{
+    float:right;
+} */
+
+#gm {
+    float: right;
+    padding-top: 70px;
+    ;
+}
+
+#gm:hover {
+    text-decoration: underline
+}
+
+b {
+    padding-bottom: 50px;
+}
+
+#I {
+    height: 30PX;
+    width: 200PX;
+    color: aqua;
+}
+
+#d1 {
+    box-shadow: 70px 60px 44px black;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+input {
+    border-radius: 30px;
+    height: 50px;
+}
+
+#gi {
+    padding-right: 60px;
+    color: black;
+}
+
+P {
+    display: inline-block;
+}
+
+
+
+
+body {
+    background: rgb(225, 145, 161);
+}
+
+IMG {
+    background-color: NONE;
+}
+
+H1 {
+    display: inline-block;
+    font-size: 200PX;
+    text-shadow: 5PX 2PX;
+    padding-left: 20px;
+}
+
+#G {
+    color: blue;
+}
+
+#O {
+    color: red;
+}
+
+#O1 {
+    color: yellowgreen;
+}
+
+#G1 {
+    color: blue;
+}
+
+#L {
+    color: green;
+}
+
+#E {
+    color: red;
+}
+
+input:hover {
+    box-shadow: 30px 40px 40px rgb(131, 142, 202);
+    font-style: italic;
+    font-size: 20px;
+    color: aquamarine;
+}
+
+img {
+    border-radius: 30px;
+}
+
+img:hover {
+    box-shadow: 80px 70px 60px rgb(128, 35, 35);
+    image-orientation: flip;
+}
+
+#CC {
+    float: right;
+}
+
+#im {
+    display: inline-block;
+}
+body{
+    background-image: url(https://i.makeagif.com/media/5-25-2021/GVAQUl.gif);
+    background-repeat:no-repeat ;
+    background-size: cover;
+}

@@ -1,0 +1,27 @@
+img {
+    size: 400px 500px;
+}
+
+body {
+    background-color: aquamarine;
+    border: 5px solid black;
+    border-radius: 20px;
+    background-image: url=("stand shivsji.jpg");
+    background-repeat: no-repeat;
+}
+
+#shiv {
+    height: 200px;
+    width: 300px;
+    margin: 4px;
+    border:  3px;
+    border-radius:  10px; 
+} table,th,td{
+    border:2px solid black; text-align: center; background-color: rgb(135, 110, 153);
+} table{
+     height:  400px;width:  900px; 
+} h2{ background-color: aqua;}
+#L1{ text-align: left;}
+#I{ background-color: cornflowerblue; border-radius:  10px}
+#I2{ background-color: crimson;} #i2{ background-color: cyan; border-radius:  10px;}
+ fieldset{ background-image: url("shiv.jpg")); background-repeat: no-repeat;background-size: COVER;font-size: 20px;}

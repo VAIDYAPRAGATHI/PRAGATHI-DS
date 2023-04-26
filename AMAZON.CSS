@@ -1,0 +1,67 @@
+
+.container-fluid{ width: 700px; }
+nav{
+      height:  70px; font-size: 15px;
+}
+
+#ser{
+      height: 60px; width:100px;
+}#all {
+     height: 90px;
+     width: 50px;
+     border: 2px solid black;
+     overflow: scroll;
+     float: right;
+     color: rgb(237, 48, 4);
+     background-color: rgba(8, 130, 218, 0.1);
+     margin: 2px 3px;
+ 
+}#logo{
+      float: left;
+}
+#add{
+     float: r;
+}li:hover{
+     border: 3px red;
+}#z{
+     background-color: rgb(195, 115, 12); border:  2px solid black; display: inline-block; width: 100%; height: 500px;
+}
+#a1{
+      height: 70px;
+}
+#gm{
+     float: right; padding-top: px; ;
+ }
+ #item{
+     display: inline-block;
+ }
+ #bo{
+     background-color: white; border: 2px solid black; height: 470px;width: 400px; float: left; margin-left: 150px; margin-top: 50px;
+ }
+ #off{
+      float: left;
+ }
+ li:hover{
+     color: violet;
+     /* font-size: 50px; */
+     font-style: italic;border: 1px solid white; border-radius: 5px;
+     /* background-color: thistle; */
+ }
+ #logo:hover{
+     color: violet;
+     /* font-size: 50px; */
+     font-style: italic;border: 1px solid white; border-radius: 5px;
+     /* background-color: thistle; */
+ }
+ #h:hover{
+     color: violet;
+     font-size: 10px;
+     font-style: italic;border: 1px solid white; border-radius: 5px;
+     /* background-color: thistle; */
+ }  
+ beg:hover{ color: darkgray;}  
+ 
+ #long{
+     margin-top: 50px;
+ }
+ 

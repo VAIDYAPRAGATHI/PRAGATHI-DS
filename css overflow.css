@@ -1,0 +1,22 @@
+div {
+    height: 200px;
+    width: 400px;
+    border: 2px solid black;
+    overflow: scroll;
+    float: right;
+    color: rgb(237, 48, 4);
+    background-color: rgba(26, 251, 48 ,0.1);
+    margin: 2px 3px;
+    background-color: rgba(3, 3, 3, 0.2);
+     
+}
+
+body {
+
+    background-image: url("2\ FRD.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px 400px; 
+} video{
+     border:  5px solid rgb(9, 8, 8);
+}

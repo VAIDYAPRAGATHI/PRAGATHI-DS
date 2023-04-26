@@ -1,0 +1,36 @@
+p {
+    background: red;
+    color: blue; border-radius: 3px;
+}
+
+#h1 {
+    background-color: rgba(20, 30, 40, 0.3); border-radius: 5px;
+
+}
+
+#h2 {
+    background-color: blue;
+    color: black;
+    font-size: 20px; border-radius: 10px;
+    font-style: italic;
+
+}
+
+#h3 {
+     color: chartreuse; background-color: cadetblue;border-radius:  20px; font-size: 30px; font-style:italic ;
+}
+body{
+     background-image:url("small\ frd.jpg") ; background-position: center;background-size:cover; background-repeat: no-repeat;
+} ol{
+    font-size: 10PX;
+    list-style-type:disc;
+     color: blue; background-color: rgb(255, 123, 0);display: inline-block;  list-style-type: square ;    }
+UL{color: crimson;
+    font-size: 30PX;
+    list-style-type: square;
+} 
+#A{color: darkgreen;
+     font-style: italic;font-size: 30PX; list-style-type: square; 
+} h1{
+     list-style-position: outside;
+} 
